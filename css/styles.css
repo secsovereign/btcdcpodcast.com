@@ -422,6 +422,10 @@ a {
   margin: 0 0 0.45rem;
 }
 
+.about-card .btn {
+  margin-top: 0.9rem;
+}
+
 .about-card p,
 .link-list {
   margin: 0;
